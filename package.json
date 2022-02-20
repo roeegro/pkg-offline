@@ -1,0 +1,25 @@
+{
+  "name": "pkg-offline",
+  "version": "1.0.0",
+  "description": "\"# pkg-offline\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roeegro/pkg-offline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roeegro/pkg-offline/issues"
+  },
+  "homepage": "https://github.com/roeegro/pkg-offline#readme",
+  "dependencies": {
+    "@angular-devkit/build-angular": "^13.2.0",
+    "@angular/cdk": "^13.2.0",
+    "@angular/material": "^13.2.0"
+  }
+}
